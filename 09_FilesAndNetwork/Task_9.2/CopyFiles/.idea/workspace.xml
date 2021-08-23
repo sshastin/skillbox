@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="594d6ed7-2546-4286-8b3e-b78c3d6ce9a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CopyFilesRecursively/CopyFilesRecursively.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CopyFilesRecursively/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CopyFilesRecursively/src/main/java/FileCopyWalker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CopyFilesRecursively/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_9.1/RecursionFileSizes/src/main/java/FileWalker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_9.1/RecursionFileSizes/src/main/java/FileWalker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_9.1/RecursionFileSizes/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_9.1/RecursionFileSizes/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_9.1/RecursionFileSizes/target/classes/FileWalker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_9.1/RecursionFileSizes/target/classes/FileWalker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_9.1/RecursionFileSizes/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_9.1/RecursionFileSizes/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_9.1/WalkFileTree/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_9.1/WalkFileTree/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_9.1/WalkFileTree/src/main/java/MyFileVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_9.1/WalkFileTree/src/main/java/MyFileVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_9.1/WalkFileTree/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_9.1/WalkFileTree/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task_9.1/WalkFileTree/target/classes/MyFileVisitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task_9.1/WalkFileTree/target/classes/MyFileVisitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZG6a7ZFT0YhwcYfhJ3BBa0Vge1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CopyFiles" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="594d6ed7-2546-4286-8b3e-b78c3d6ce9a8" name="Default Changelist" comment="" />
+      <created>1584453143420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584453143420</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="829" y="265" key="#com.intellij.ide.util.MemberChooser" timestamp="1584453355483">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="829" y="265" key="#com.intellij.ide.util.MemberChooser/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1584453355483" />
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1584528972621">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1584528972621" />
+    <state width="2005" height="305" key="GridCell.Tab.0.center" timestamp="1584528972620">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.center/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1584528972620" />
+    <state width="2005" height="305" key="GridCell.Tab.0.left" timestamp="1584528972620">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.left/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1584528972620" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right" timestamp="1584528972620">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.right/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1584528972620" />
+  </component>
+</project>

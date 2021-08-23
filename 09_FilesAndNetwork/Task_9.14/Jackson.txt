@@ -1,0 +1,48 @@
+@startuml
+Line o- Station
+Station -o ConnectedStation
+ConnectedStation -* Connection
+
+class Line {
+{field}-String name
+{field}-List<Station> stations
+
+{method}+Line(String name, List<Station> stations)
+{method}+String getName()
+{method}+List<Station> getStations()
+{method}+String toString()
+}
+
+class Station {
+{field}-String name
+
+{method}+Station(String name)
+{method}+String getName()
+{method}+String toString()
+{method}+boolean equals(Object o)
+{method}+int hashCode()
+}
+
+class ConnectedStation{
+{field}-String line
+{field}-Station station
+
+{method}+ConnectedStation(String line, Station station)
+{method}+String getLine()
+{method}+Station getStation()
+{method}+String toString()
+{method}+boolean equals(Object o)
+{method}+int hashCode()
+}
+
+class Connection{
+{field}-List<ConnectedStation> connection
+
+{method}+Connection()
+{method}+List<ConnectedStation> getConnection()
+{method}+void addConnectedStation(ConnectedStation connectedStation)
+{method}+String toString()
+{method}+boolean equals(Object o)
+{method}+int hashCode()
+}
+@enduml

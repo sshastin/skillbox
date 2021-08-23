@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a5e1234-1100-4917-9bdf-687150e205e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="257" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../SPBMetro\exportToHTML" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SPBMetro" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y1w947aEpGYLsYPGKQjUHp1H8c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559622580090" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+      <recent name="core" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ShastinSA\My\Oracle\java_basics\08_ExceptionsDebuggingAndTesting\SPBMetro\src\test\java" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SPBMetro" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All tests in SPBMetro" type="JUnit" factoryName="JUnit">
+      <module name="SPBMetro" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="SPBMetro" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="core" />
+      <option name="MAIN_CLASS_NAME" value="core.LineTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.All tests in SPBMetro" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_ANONYMOUS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a5e1234-1100-4917-9bdf-687150e205e8" name="Default Changelist" comment="" />
+      <created>1559569584327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559569584327</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="621" y="187" key="#All_in_SPBMetro" timestamp="1583131633681">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="621" y="187" key="#All_in_SPBMetro/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1583131633681" />
+    <state x="616" y="214" key="#Inspections" timestamp="1583312078605">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="616" y="214" key="#Inspections/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1583312078605" />
+    <state x="621" y="223" key="#LineTest" timestamp="1583164773532">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="621" y="223" key="#LineTest/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1583164773532" />
+    <state x="616" y="214" width="1123" height="683" key="#Project_Structure" timestamp="1582805552103">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="616" y="214" width="1123" height="683" key="#Project_Structure/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1582805552103" />
+    <state x="621" y="223" key="#RouteCalculatorMyTest" timestamp="1583131526056">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="621" y="223" key="#RouteCalculatorMyTest/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1583131526056" />
+    <state x="616" y="214" key="#Scopes" timestamp="1584090487390">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="616" y="214" key="#Scopes/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1584090487390" />
+    <state x="754" y="311" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1582721082583">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="754" y="311" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1582721082583" />
+    <state x="390" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584090429354">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="390" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1584090429354" />
+    <state x="92" y="92" width="1864" height="928" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1583416388759">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="92" y="92" width="1864" height="928" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1583416388759" />
+    <state x="745" y="359" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582641611288">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="745" y="359" key="#com.intellij.fileTypes.FileTypeChooser/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1582641611288" />
+    <state x="773" y="392" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1583822944469">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="773" y="392" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1583822944469" />
+    <state x="829" y="265" key="#com.intellij.ide.util.MemberChooser" timestamp="1584102182612">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="829" y="265" key="#com.intellij.ide.util.MemberChooser/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1584102182612" />
+    <state x="754" y="331" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1583131090091">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="754" y="331" key="#com.intellij.ide.util.PackageChooserDialog/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1583131090091" />
+    <state x="292" y="474" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583305256796">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="292" y="474" key="#com.intellij.ide.util.TreeClassChooserDialog/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1583305256796" />
+    <state x="872" y="445" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582123335222">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="872" y="445" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1582123335222" />
+    <state x="704" y="284" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584087240980">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="704" y="284" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1584087240980" />
+    <state x="820" y="415" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583333507945">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="820" y="415" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1583333507945" />
+    <state x="771" y="403" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583131325285">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="771" y="403" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1583131325285" />
+    <state x="92" y="92" width="1864" height="928" key="DiffContextDialog" timestamp="1583238865969">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="92" y="92" width="1864" height="928" key="DiffContextDialog/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1583238865969" />
+    <state x="803" y="310" key="FileChooserDialogImpl" timestamp="1584349471700">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="803" y="310" key="FileChooserDialogImpl/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1584349471700" />
+    <state width="1493" height="165" key="GridCell.Tab.0.bottom" timestamp="1586269352885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="165" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586269352885" />
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@-2048.0.2048.1112" timestamp="1582733905560" />
+    <state width="2005" height="258" key="GridCell.Tab.0.bottom/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1584111592610" />
+    <state width="1493" height="165" key="GridCell.Tab.0.center" timestamp="1586269352885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="165" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586269352885" />
+    <state width="2005" height="305" key="GridCell.Tab.0.center/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@-2048.0.2048.1112" timestamp="1582733905560" />
+    <state width="2005" height="258" key="GridCell.Tab.0.center/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1584111592609" />
+    <state width="1493" height="165" key="GridCell.Tab.0.left" timestamp="1586269352885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="165" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586269352885" />
+    <state width="2005" height="305" key="GridCell.Tab.0.left/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@-2048.0.2048.1112" timestamp="1582733905560" />
+    <state width="2005" height="258" key="GridCell.Tab.0.left/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1584111592609" />
+    <state width="1493" height="165" key="GridCell.Tab.0.right" timestamp="1586269352885">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="165" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586269352885" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@-2048.0.2048.1112" timestamp="1582733905560" />
+    <state width="2005" height="258" key="GridCell.Tab.0.right/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1584111592609" />
+    <state width="2005" height="376" key="GridCell.Tab.1.bottom" timestamp="1583419629378">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.bottom/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1583419629378" />
+    <state width="2005" height="376" key="GridCell.Tab.1.center" timestamp="1583419629378">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.center/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1583419629378" />
+    <state width="2005" height="376" key="GridCell.Tab.1.left" timestamp="1583419629378">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.left/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1583419629378" />
+    <state width="2005" height="376" key="GridCell.Tab.1.right" timestamp="1583419629378">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.right/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1583419629378" />
+    <state x="504" y="130" key="SettingsEditor" timestamp="1584103267088">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="504" y="130" key="SettingsEditor/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1584103267088" />
+    <state x="686" y="260" key="VCS.ChangeListViewerDialog" timestamp="1583406047261">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="686" y="260" key="VCS.ChangeListViewerDialog/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1583406047261" />
+    <state width="940" height="1110" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1583235868446">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="940" height="1110" key="com.intellij.byteCodeViewer.ShowByteCodeAction/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1583235868446" />
+    <state x="92" y="92" width="1864" height="928" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1583318501983">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="92" y="92" width="1864" height="928" key="com.intellij.history.integration.ui.views.FileHistoryDialog/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1583318501983" />
+    <state x="833" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584103050639">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="833" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1584103050639" />
+    <state x="795" y="274" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583131472986">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="795" y="274" key="com.intellij.testIntegration.createTest.CreateTestDialog/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1583131472986" />
+    <state x="600" y="292" width="847" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583326235518">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="600" y="292" width="847" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1583326235518" />
+    <state x="406" y="251" key="new project wizard" timestamp="1584349476590">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="406" y="251" key="new project wizard/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1584349476590" />
+    <state x="680" y="258" key="run.anything.popup" timestamp="1584101707940">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="680" y="258" key="run.anything.popup/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1584101707940" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1582719129773">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/2048.0.1536.832/0.0.2048.1112/-2048.0.2048.1112@0.0.2048.1112" timestamp="1582719129773" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SPBMetro$core_in_SPBMetro.ic" NAME="core in SPBMetro Coverage Results" MODIFIED="1583223382437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>core.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SPBMetro$LineTest.ic" NAME="LineTest Coverage Results" MODIFIED="1583167202389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>core.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SPBMetro$StationTest_CompareToTest.ic" NAME="StationTest$CompareToTest Coverage Results" MODIFIED="1583168301384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>core.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SPBMetro$StationIndexTest.ic" NAME="StationIndexTest Coverage Results" MODIFIED="1583305835406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SPBMetro$RouteCalculatorTest_testCalculateDuration.ic" NAME="RouteCalculatorTest.testCalculateDuration Coverage Results" MODIFIED="1582822916544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SPBMetro$RouteCalculatorTest_testGetShortestRoute_testGetShortestRouteTwoStationsTwoInterchanges.ic" NAME="RouteCalculatorTest$testGetShortestRoute.testGetShortestRouteTwoStationsTwoInterchanges Coverage Results" MODIFIED="1583237041041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SPBMetro$StationIndexTest_testGetStationWithIOneArg.ic" NAME="StationIndexTest.testGetStationWithIOneArg Coverage Results" MODIFIED="1583304702432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SPBMetro$All_tests_in_SPBMetro.ic" NAME="All tests in SPBMetro Coverage Results" MODIFIED="1584103284675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SPBMetro$RouteCalculatorTest_testGetShortestRoute_testGetShortestRouteTwoStationsTwoInterchangesReversed.ic" NAME="RouteCalculatorTest$testGetShortestRoute.testGetShortestRouteTwoStationsTwoInterchangesReversed Coverage Results" MODIFIED="1583238911746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SPBMetro$StationIndexTest_addStation.ic" NAME="StationIndexTest.addStation Coverage Results" MODIFIED="1583303562388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SPBMetro$RouteCalculatorTest.ic" NAME="RouteCalculatorTest Coverage Results" MODIFIED="1583224356213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

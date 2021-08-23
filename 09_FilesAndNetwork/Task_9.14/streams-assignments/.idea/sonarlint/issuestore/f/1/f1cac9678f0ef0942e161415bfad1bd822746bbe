@@ -1,0 +1,12 @@
+
+p	java:S115Œ"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ß­¼À
+p	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(·Ã®
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ó¶…Ñşÿÿÿÿ
+E
+java:S1148W"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÌıÀª.
+X	java:S125,"<This block of commented-out lines of code should be removed.(­‹ú¤8£¤ØÉ©.
+M
+java:S1481S"+Remove this unused "method" local variable.(»‹è“şÿÿÿÿ8º§Ğª.
+p	java:S115‹"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÌÂõ
+U
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Í8úëİª.

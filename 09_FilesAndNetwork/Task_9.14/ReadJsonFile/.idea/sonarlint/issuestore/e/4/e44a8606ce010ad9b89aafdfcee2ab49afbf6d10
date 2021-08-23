@@ -1,0 +1,21 @@
+
+>
+java:S11485"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+g
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(¬åÒ—
+W
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÞóÄû
+g
+java:S3457 "Q%n should be used in place of \n to produce the platform-specific line separator.(ïÀ“³
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(ïÀ“³
+g
+java:S3457%"Q%n should be used in place of \n to produce the platform-specific line separator.(üÌÕ±
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(üÌÕ±
+g
+java:S3457'"Q%n should be used in place of \n to produce the platform-specific line separator.(„Óýµ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(„Óýµ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(¶·âŸ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(´ËÄÍÿÿÿÿÿ
+g
+java:S34571"Q%n should be used in place of \n to produce the platform-specific line separator.(°‰‰‹
+N	java:S1061"9Replace this use of System.out or System.err by a logger.(°‰‰‹

@@ -1,0 +1,8 @@
+/src/main/sourceFiles/
+/target/
+/.idea/
+*.iml
+*.plantuml
+/src/main/java/META-INF/MANIFEST.MF
+/out/
+/target/
